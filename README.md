@@ -22,3 +22,10 @@ Para visualizar este projeto, basta clonar o repositório e abrir o arquivo `ind
 git clone https://github.com/CeciliaBotelho/spotify.clone.project.git
 cd seu-spotify-clone
 abrir index.html
+
+
+## Entre em Contato 📬
+
+- Nome - Cecilia Botelho 
+- E-mail - cescbotelho@gmail.com
+---
