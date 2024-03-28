@@ -1,6 +1,6 @@
 # Clone do Spotify 🎧
 
-Bem-vindo(a) ao repositório do meu projeto Clone do Spotify! Este projeto é uma réplica da interface do usuário do Spotify, criada com o objetivo de praticar HTML e CSS. 🚀
+Bem-vindo(a) ao repositório do meu projeto Clone do Spotify! Este projeto é uma réplica da interface do usuário do Spotify, criada com o objetivo de praticar HTML e CSS 🚀
 
 ## Tecnologias Utilizadas 💻
 
